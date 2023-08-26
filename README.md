@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=RaulRinconX)
+![](https://komarev.com/ghpvc/?username=RaulRinconX&Color=blueviolet)
 
 # Hola
 <!--
