@@ -13,6 +13,8 @@
 
 <p align='center'>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=RaulRinconX&Color=blueviolet"></a>
+</p>
+<p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RaulRinconX&show_icons=true&theme=vision-friendly-dark"></a>
 </p>
 
