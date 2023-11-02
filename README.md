@@ -1,7 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=RaulRinconX&Color=blueviolet)
 
+<p align="center">
 ![Architect Linkedin Background (1)](https://github.com/RaulRinconX/RaulRinconX/assets/92411789/75cc4b5f-cc1a-4ed4-9a14-8877e477114a)
-
+</p>
 ## **About me**
 
 - 🔭 I’m currently studying on Universidad de los Andes
