@@ -1,8 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=RaulRinconX&Color=blueviolet)
 
-# Hola
-<!--
-**RaulRinconX/RaulRinconX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Architect Linkedin Background](https://github.com/RaulRinconX/RaulRinconX/assets/92411789/ec25925f-9e40-42d2-a0d2-e3043150b7b6)
 
 Here are some ideas to get you started:
 
@@ -14,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
