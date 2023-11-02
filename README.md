@@ -12,9 +12,13 @@
 - 👯 I’m looking to collaborate on many projects
 - 💬 Ask me about Hacking!!!
 - ⚡ Fun fact: I love music and playing guitar
-<p align="center">
-[![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulRinconX&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+- 
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RaulRinconX&show_icons=true&theme=vision-friendly-dark" width="350"></a>
 </p>
+
 ## **👩‍💻 Languages** 
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
