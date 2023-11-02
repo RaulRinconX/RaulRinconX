@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=RaulRinconX&Color=blueviolet)
 
-<p align="center">
+
 ![Architect Linkedin Background (1)](https://github.com/RaulRinconX/RaulRinconX/assets/92411789/75cc4b5f-cc1a-4ed4-9a14-8877e477114a)
-</p>
+
 ## **About me**
 
 - 🔭 I’m currently studying on Universidad de los Andes
@@ -12,9 +12,9 @@
 - 👯 I’m looking to collaborate on many projects
 - 💬 Ask me about Hacking!!!
 - ⚡ Fun fact: I love music and playing guitar
-
-[![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulRinconX)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+[![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulRinconX&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 ## **👩‍💻 Languages** 
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
