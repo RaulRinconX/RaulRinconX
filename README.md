@@ -5,7 +5,7 @@
 
 ## **About me**
 
--🔭 I’m currently studying on Universidad de los Andes
+- 🔭 I’m currently studying on Universidad de los Andes
 - 🥇 Microsoft Security, Compliance, and Identity Fundamentals
 - 🌱 I’m currently learning Cybersecurity And Software Architecture
 - 👯 I’m looking to collaborate on many projects
