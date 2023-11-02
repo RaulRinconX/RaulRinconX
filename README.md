@@ -10,9 +10,9 @@
 - 💬 Ask me about Hacking!!!
 - ⚡ Fun fact: I love music and playing guitar
   
-![](https://komarev.com/ghpvc/?username=RaulRinconX&Color=blueviolet)
 
 <p align='center'>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=RaulRinconX&Color=blueviolet"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=RaulRinconX&show_icons=true&theme=vision-friendly-dark"></a>
 </p>
 
