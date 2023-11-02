@@ -7,7 +7,7 @@
 - 🔭 I’m currently studying on Universidad de los Andes
 - 🥇 Microsoft Security, Compliance, and Identity Fundamentals
 - 🌱 I’m currently learning Cybersecurity And Software Architecture
-  ![](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
+-  ![](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
 - 👯 I’m looking to collaborate on many projects
 - 💬 Ask me about Hacking!!!
 - ⚡ Fun fact: I love music and playing guitar
