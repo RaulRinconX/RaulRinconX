@@ -12,6 +12,8 @@
 - 💬 Ask me about Hacking!!!
 - ⚡ Fun fact: I love music and playing guitar
 
+[![Raul's GitHub stats](https://github-readme-stats.vercel.app/api?username=RaulRinconX)](https://github.com/anuraghazra/github-readme-stats)
+
 ## **👩‍💻 Languages** 
 
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
